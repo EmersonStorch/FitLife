@@ -1,0 +1,8 @@
+{
+  "name": "FITLIFE Premium Performance",
+  "description": "Plataforma de elite para alta performance fitness, nutrição inteligente e coaching personalizado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
